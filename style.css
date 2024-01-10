@@ -314,6 +314,13 @@ button{
         width: 100%;
         text-align: center;
     }
-   
+   form{
+    width: 400px;
+   }
+   .form input{
+    width: 350px;
+   }
+
+
 
 }
